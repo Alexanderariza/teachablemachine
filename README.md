@@ -59,3 +59,4 @@
         }
     }
 </script>
+https://teachablemachine.withgoogle.com/models/ZyErNfPfR/
