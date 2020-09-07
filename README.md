@@ -1,5 +1,10 @@
 # teachablemachine: ¨aplicaciones sobre mapas¨
 
+Imagine un modelo de IA que clasifique de manera automática cualquier vía o camino de un rio o drenaje al mirar un mapa o imagen de satélite: 
+
+<img src='./img/777-min.gif' alt='Logo Head' align='center' width='30%'></img>
+<br>
+
 Este es un ejemplo sencillo desarrollado en **[Teachable Machine](https://teachablemachine.withgoogle.com/)** que muestra la forma rápida de crear modelos de aprendizaje profundo o automático en aplicaciones geográficas [Deep learning mapping](https://towardsdatascience.com/deep-learning-for-visual-searches-and-mapping-89b85061ef9e).
 **Teachable Machine** es una herramienta basada en la Web que hace posible crear modelos de aprendizaje automático de manera rápida.
 ## Como funciona:
@@ -20,9 +25,6 @@ El modelo puede clasificar cualquier imagen utilizando para ello archivos de tu 
 
 **[script OPS](https://teachablemachine.withgoogle.com/models/dhroGiDRg/)**
     
-<img src='./img/777-min.gif' alt='Logo Head' align='center' width='30%'></img>
-<br>
-
 ## Descarga el modelo:
 El modelo sobre [OPS](https://blog.openstreetmap.org/category/operations/) presentado, fue desarrollado bajo TensorFlow.js que funciona en cualquier sitio con javascript. Por tanto, es perfectamente compatible con herramientas como [Glitch](https://glitch.com/), [P5.js](https://p5js.org/), [Node.js](https://nodejs.org/es/) y muchas otras. puedes descargarlo aqui:
 * [Script](https://code.earthengine.google.com/839e29e8409b509c703ff2718818979b)
