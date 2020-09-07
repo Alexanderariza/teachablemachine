@@ -12,7 +12,7 @@ Este es un ejemplo sencillo desarrollado en **[Teachable Machine](https://teacha
 <img src='./img/Captura2.PNG' alt='how' align='center' width='70%'></img>
 <br>
 
-El modelo funciona a partir de una serie de imágenes de ríos y caminos precargados sobre capas de [OPS](https://blog.openstreetmap.org/category/operations/) openstreetmap, que sirven para entrenar a un modelo de **[IA](https://towardsdatascience.com/search?q=Artificial%20inteligent)** el cual realiza para cada conjunto de datos un análisis en 50 ciclos o épocas, con iteraciones cada 16 imágenes, lo que le permite clasificar imágenes en dos clases:
+El modelo funciona a partir de una serie de imágenes de ríos y caminos precargados sobre capas de [OPS](https://blog.openstreetmap.org/category/operations/) (openstreetmap), que sirven para entrenar a un modelo de **[IA](https://towardsdatascience.com/search?q=Artificial%20inteligent)** el cual realiza para cada conjunto de datos un análisis en 50 ciclos o épocas, con iteraciones cada 16 imágenes, lo que le permite clasificar imágenes en dos clases:
 * 1. Rios
 * 2. Vias
 
