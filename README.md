@@ -7,7 +7,7 @@ Este es un ejemplo sencillo desarrollado en **[Teachable Machine](https://teacha
 <img src='./img/Captura2.PNG' alt='how' align='center' width='70%'></img>
 <br>
 
-El modelo funciona a partir de una serie de imágenes creadas y precargadas sobre capas de [OPS](https://blog.openstreetmap.org/category/operations/) openstreetmap, que le enseña a un modelo de IA a clasificar imágenes en dos clases: 
+El modelo funciona a partir de una serie de imágenes creadas y precargadas sobre capas de [OPS](https://blog.openstreetmap.org/category/operations/) openstreetmap, que le enseña a un modelo de **[IA](https://towardsdatascience.com/search?q=Artificial%20inteligent)** a clasificar imágenes en dos clases: 
 * 1. Rios
 * 2. Vias
 Usando archivos o tu webcam, como datos de entrada.
@@ -22,7 +22,7 @@ Usando archivos o tu webcam, como datos de entrada.
 <img src='./img/777-min.gif' alt='Logo Head' align='center' width='30%'></img>
 <br>
 
-El modelo sobre [OPS](https://blog.openstreetmap.org/category/operations/) presentado, fue desarrollado bajo TensorFlow.js que funciona en cualquier sitio con javascript. Por tanto, es perfectamente compatible con herramientas como Glitch, P5.js, Node.js y muchas otras:
+El modelo sobre [OPS](https://blog.openstreetmap.org/category/operations/) presentado, fue desarrollado bajo TensorFlow.js que funciona en cualquier sitio con javascript. Por tanto, es perfectamente compatible con herramientas como [Glitch](https://glitch.com/), [P5.js](https://p5js.org/), [Node.js](https://nodejs.org/es/) y muchas otras:
 
 ----------------------------------------------------
 <div>Teachable Machine Image Model</div>
