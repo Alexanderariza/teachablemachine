@@ -10,7 +10,8 @@ Este es un ejemplo sencillo desarrollado en **[Teachable Machine](https://teacha
 El modelo funciona a partir de una serie de imágenes creadas y precargadas sobre capas de [OPS](https://blog.openstreetmap.org/category/operations/) openstreetmap, que le enseña a un modelo de **[IA](https://towardsdatascience.com/search?q=Artificial%20inteligent)** a clasificar imágenes en dos clases: 
 * 1. Rios
 * 2. Vias
-Usando archivos o tu webcam, como datos de entrada.
+
+El modelo puede clasificar cualquier imagen utilizando para ello archivos de tu PC o tu webcam como datos de entrada.
 
 <img src='./img/Captura.PNG' alt='class' align='center' width='70%'></img>
 <br>
