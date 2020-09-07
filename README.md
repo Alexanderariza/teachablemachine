@@ -1,4 +1,4 @@
-# teachablemachine: aplicaciones sobre mapas
+# teachablemachine: ¨aplicaciones sobre mapas¨
 
 Este es un ejemplo sencillo desarrollado en **[Teachable Machine](https://teachablemachine.withgoogle.com/)** que muestra la forma rápida de crear modelos de aprendizaje profundo o automático en aplicaciones geográficas [Deep learning mapping](https://towardsdatascience.com/deep-learning-for-visual-searches-and-mapping-89b85061ef9e).
 **[Teachable Machine](https://teachablemachine.withgoogle.com/)** es una herramienta basada en la Web que hace posible crear modelos de aprendizaje automático de manera rápida.
@@ -15,7 +15,7 @@ Usando archivos o tu webcam, como datos de entrada.
 <img src='./img/Captura.PNG' alt='class' align='center' width='70%'></img>
 <br>
 
-**Este es el enlace de ejemplo:**
+**Enlace de ejemplo:**
 
 **[script OPS](https://teachablemachine.withgoogle.com/models/dhroGiDRg/)**
     
