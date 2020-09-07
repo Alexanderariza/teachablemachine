@@ -5,14 +5,14 @@ Imagine un modelo de **[IA](https://towardsdatascience.com/search?q=Artificial%2
 <img src='./img/777-min.gif' alt='Logo Head' align='center' width='30%'></img>
 <br>
 
-Este es un ejemplo sencillo desarrollado en **[Teachable Machine](https://teachablemachine.withgoogle.com/)** que muestra la forma rápida de crear un modelo de aprendizaje profundo [Deep learning mapping](https://towardsdatascience.com/deep-learning-for-visual-searches-and-mapping-89b85061ef9e)o automático en aplicaciones geográficas.
+Este es un ejemplo sencillo desarrollado en **[Teachable Machine](https://teachablemachine.withgoogle.com/)** que muestra la forma rápida de crear un modelo de aprendizaje profundo [Deep learning mapping](https://towardsdatascience.com/deep-learning-for-visual-searches-and-mapping-89b85061ef9e) o automático en aplicaciones geográficas.
 **Teachable Machine** es una herramienta basada en la Web que hace posible crear modelos de aprendizaje automático de manera rápida.
 ## Como funciona:
 
 <img src='./img/Captura2.PNG' alt='how' align='center' width='70%'></img>
 <br>
 
-El modelo funciona a partir de una serie de imágenes creadas y precargadas sobre capas de [OPS](https://blog.openstreetmap.org/category/operations/) openstreetmap, que le enseña a un modelo de **[IA](https://towardsdatascience.com/search?q=Artificial%20inteligent)** a clasificar imágenes en dos clases: 
+El modelo funciona a partir de una serie de imágenes de rios y caminos precargados sobre capas de [OPS](https://blog.openstreetmap.org/category/operations/) openstreetmap, que sirven para entrenar a un modelo de **[IA](https://towardsdatascience.com/search?q=Artificial%20inteligent)** a clasificar imágenes en dos clases: 
 * 1. Rios
 * 2. Vias
 
