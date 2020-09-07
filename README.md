@@ -27,7 +27,7 @@ The model can classify any image using files from your PC or your webcam as inpu
     
 ## Model download:
 This model trained under layers of [OPS](https://blog.openstreetmap.org/category/operations/) was developed under [TensorFlow.js](https://www.tensorflow.org/js?hl=es-419) that works anywhere with javascript. Therefore, it is perfectly compatible with tools such as [Glitch](https://glitch.com/), [P5.js](https://p5js.org/), [Node.js](https://nodejs .org /en/) and many others. you can download it here:
-* [Script] (https://github.com/Alexanderariza/teachablemachine/blob/master/model.json)
+* [Script](https://github.com/Alexanderariza/teachablemachine/blob/master/model.json)
 
 ----------------------------------------------------
 <div>Teachable Machine Image Model</div>
