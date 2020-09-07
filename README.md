@@ -1,18 +1,18 @@
 # teachablemachine: ¨applications on mapping¨
 
-Imagine a ** [IA] (https://towardsdatascience.com/search?q=Artificial%20inteligent) ** model that automatically classifies any ** path or path of a river or drainage ** by simply looking at a map or satellite image:
+Imagine a **[IA](https://towardsdatascience.com/search?q=Artificial%20inteligent)** model that automatically classifies any **path or path of a river or drainage** by simply looking at a map or satellite image:
 
 <img src='./img/777-min.gif' alt='Logo Head' align='center' width='30%'></img>
 <br>
 
-This is a simple example developed in ** [Teachable Machine] (https://teachablemachine.withgoogle.com/) ** that shows the quick way to create a deep learning model [Deep learning mapping] (https: // towardsdatascience .com / deep-learning-for-visual-searches-and-mapping-89b85061ef9e) or automatic in geographic applications.
+This is a simple example developed in **[Teachable Machine] (https://teachablemachine.withgoogle.com/)** that shows the quick way to create a deep learning model [Deep learning mapping](https://towardsdatascience.com/deep-learning-for-visual-searches-and-mapping-89b85061ef9e) or automatic in geographic applications.
 ** Teachable Machine ** is a web-based tool that makes it possible to create machine learning models quickly.
 ## How does it work:
 
 <img src='./img/Captura2.PNG' alt='how' align='center' width='70%'></img>
 <br>
 
-The model works from a series of images of rivers and roads preloaded on layers of [OPS] (https://blog.openstreetmap.org/category/operations/) (openstreetmap), which serve to train a model of * * [IA] (https://towardsdatascience.com/search?q=Artificial%20inteligent) ** which performs for each dataset an analysis in 50 cycles or epochs, with iterations every 16 images, which allows you to classify images in two classes:
+The model works from a series of images of rivers and roads preloaded on layers of [OPS](https://blog.openstreetmap.org/category/operations/) (openstreetmap), which serve to train a model of **[IA](https://towardsdatascience.com/search?q=Artificial%20inteligent)** which performs for each dataset an analysis in 50 cycles or epochs, with iterations every 16 images, which allows you to classify images in two classes:
 * 1. Rivers
 * 2. Ways
 
@@ -25,8 +25,8 @@ The model can classify any image using files from your PC or your webcam as inpu
 
 **[script OPS](https://teachablemachine.withgoogle.com/models/dhroGiDRg/)**
     
-## Descarga del modelo:
-This model trained under layers of [OPS] (https://blog.openstreetmap.org/category/operations/) was developed under [TensorFlow.js] (https://www.tensorflow.org/js?hl=es- 419) that works anywhere with javascript. Therefore, it is perfectly compatible with tools such as [Glitch] (https://glitch.com/), [P5.js] (https://p5js.org/), [Node.js] (https: // nodejs .org / en /) and many others. you can download it here:
+## Model download:
+This model trained under layers of [OPS](https://blog.openstreetmap.org/category/operations/) was developed under [TensorFlow.js](https://www.tensorflow.org/js?hl=es-419) that works anywhere with javascript. Therefore, it is perfectly compatible with tools such as [Glitch](https://glitch.com/), [P5.js](https://p5js.org/), [Node.js](https://nodejs .org /en/) and many others. you can download it here:
 * [Script] (https://github.com/Alexanderariza/teachablemachine/blob/master/model.json)
 
 ----------------------------------------------------
