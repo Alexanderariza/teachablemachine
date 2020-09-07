@@ -1,6 +1,6 @@
 # teachablemachine: ¨aplicaciones sobre mapas¨
 
-Imagine un modelo de IA que clasifique de manera automática cualquier vía o camino de un rio o drenaje al mirar un mapa o imagen de satélite: 
+Imagine un modelo de **[IA](https://towardsdatascience.com/search?q=Artificial%20inteligent)** que clasifique de manera automática cualquier vía o camino de un rio o drenaje al mirar simplemente un mapa o imagen de satélite: 
 
 <img src='./img/777-min.gif' alt='Logo Head' align='center' width='30%'></img>
 <br>
