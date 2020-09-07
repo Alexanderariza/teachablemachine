@@ -26,7 +26,7 @@ El modelo puede clasificar cualquier imagen utilizando para ello archivos de tu 
 **[script OPS](https://teachablemachine.withgoogle.com/models/dhroGiDRg/)**
     
 ## Descarga el modelo:
-El modelo sobre [OPS](https://blog.openstreetmap.org/category/operations/) presentado, fue desarrollado bajo TensorFlow.js que funciona en cualquier sitio con javascript. Por tanto, es perfectamente compatible con herramientas como [Glitch](https://glitch.com/), [P5.js](https://p5js.org/), [Node.js](https://nodejs.org/es/) y muchas otras. puedes descargarlo aqui:
+Este modelo entrenado bajo capas de [OPS](https://blog.openstreetmap.org/category/operations/) fue desarrolado bajo [TensorFlow.js](https://www.tensorflow.org/js?hl=es-419) que funciona en cualquier sitio con javascript. Por tanto, es perfectamente compatible con herramientas como [Glitch](https://glitch.com/), [P5.js](https://p5js.org/), [Node.js](https://nodejs.org/es/) y muchas otras. puedes descargarlo aqui:
 * [Script](https://github.com/Alexanderariza/teachablemachine/blob/master/model.json)
 
 ----------------------------------------------------
