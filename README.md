@@ -1,11 +1,11 @@
 # teachablemachine: ¨aplicaciones sobre mapas¨
 
-Imagine un modelo de **[IA](https://towardsdatascience.com/search?q=Artificial%20inteligent)** que clasifique de manera automática cualquier vía o camino de un rio o drenaje al mirar simplemente un mapa o imagen de satélite: 
+Imagine un modelo de **[IA](https://towardsdatascience.com/search?q=Artificial%20inteligent)** que clasifique de manera automática cualquier **vía o camino de un rio o drenaje** al mirar simplemente un mapa o imagen de satélite: 
 
 <img src='./img/777-min.gif' alt='Logo Head' align='center' width='30%'></img>
 <br>
 
-Este es un ejemplo sencillo desarrollado en **[Teachable Machine](https://teachablemachine.withgoogle.com/)** que muestra la forma rápida de crear modelos de aprendizaje profundo o automático en aplicaciones geográficas [Deep learning mapping](https://towardsdatascience.com/deep-learning-for-visual-searches-and-mapping-89b85061ef9e).
+Este es un ejemplo sencillo desarrollado en **[Teachable Machine](https://teachablemachine.withgoogle.com/)** que muestra la forma rápida de crear un modelo de aprendizaje profundo o automático en aplicaciones geográficas [Deep learning mapping](https://towardsdatascience.com/deep-learning-for-visual-searches-and-mapping-89b85061ef9e).
 **Teachable Machine** es una herramienta basada en la Web que hace posible crear modelos de aprendizaje automático de manera rápida.
 ## Como funciona:
 
