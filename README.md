@@ -1,5 +1,19 @@
-# teachablemachine
+# teachablemachine aplicaciones sobre mapas
 
+Este es un ejemplo sencillo que muestra la forma rápida de crear modelos de aprendizaje profundo o automático en aplicaciones geográficas.
+**[Teachable Machine](https://teachablemachine.withgoogle.com/)** es una herramienta basada en la Web que hace posible crear modelos de aprendizaje automático de manera rápida.
+**Como funciona:**
+<img src='./img/Captura2.png' alt='Logo Head' align='center' width='99%'></img>
+<br>
+
+El modelo funciona a partir de una serie de imágenes creadas y precargadas sobre capas de [OPS](https://blog.openstreetmap.org/category/operations/) openstreetmap, que le enseña a un modelo de IA a clasificar imágenes en dos clases: 
+* 1. Rios
+* 2. Vias
+Usando archivos o tu webcam, como datos de entrada.
+<img src='./img/Captura.png' alt='Logo Head' align='center' width='99%'></img>
+<br>
+El modelo OPS presentado fue desarrollado bajo TensorFlow.js que funciona en cualquier sitio con javascript. Por tanto, es perfectamente compatible con herramientas como Glitch, P5.js, Node.js y muchas otras:
+----------------------------------------------------
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
@@ -9,57 +23,8 @@
 <script type="text/javascript">
     // More API functions here:
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
-
-    // the link to your model provided by Teachable Machine export panel
-    const URL = "./my_model/";
-
-    let model, webcam, labelContainer, maxPredictions;
-
-    // Load the image model and setup the webcam
-    async function init() {
-        const modelURL = URL + "model.json";
-        const metadataURL = URL + "metadata.json";
-
-        // load the model and metadata
-        // Refer to tmImage.loadFromFiles() in the API to support files from a file picker
-        // or files from your local hard drive
-        // Note: the pose library adds "tmImage" object to your window (window.tmImage)
-        model = await tmImage.load(modelURL, metadataURL);
-        maxPredictions = model.getTotalClasses();
-
-        // Convenience function to setup a webcam
-        const flip = true; // whether to flip the webcam
-        webcam = new tmImage.Webcam(200, 200, flip); // width, height, flip
-        await webcam.setup(); // request access to the webcam
-        await webcam.play();
-        window.requestAnimationFrame(loop);
-
-        // append elements to the DOM
-        document.getElementById("webcam-container").appendChild(webcam.canvas);
-        labelContainer = document.getElementById("label-container");
-        for (let i = 0; i < maxPredictions; i++) { // and class labels
-            labelContainer.appendChild(document.createElement("div"));
-        }
-    }
-
-    async function loop() {
-        webcam.update(); // update the webcam frame
-        await predict();
-        window.requestAnimationFrame(loop);
-    }
-
-    // run the webcam image through the image model
-    async function predict() {
-        // predict can take in an image, video or canvas html element
-        const prediction = await model.predict(webcam.canvas);
-        for (let i = 0; i < maxPredictions; i++) {
-            const classPrediction =
-                prediction[i].className + ": " + prediction[i].probability.toFixed(2);
-            labelContainer.childNodes[i].innerHTML = classPrediction;
-        }
-    }
-</script>
-
-[script 1](https://teachablemachine.withgoogle.com/models/ZyErNfPfR/)
-[script 2](https://teachablemachine.withgoogle.com/models/dhroGiDRg/)
-
+--------------------------------------------------------------------------------------------------
+Este es el enlace de ejemplo:
+[script OPS](https://teachablemachine.withgoogle.com/models/dhroGiDRg/)
+<img src='./img/777-min.gif' alt='Logo Head' align='center' width='99%'></img>
+<br>
