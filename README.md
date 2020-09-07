@@ -5,7 +5,7 @@ Imagine a **[IA](https://towardsdatascience.com/search?q=Artificial%20inteligent
 <img src='./img/777-min.gif' alt='Logo Head' align='center' width='30%'></img>
 <br>
 
-This is a simple example developed in **[Teachable Machine] (https://teachablemachine.withgoogle.com/)** that shows the quick way to create a deep learning model [Deep learning mapping](https://towardsdatascience.com/deep-learning-for-visual-searches-and-mapping-89b85061ef9e) or automatic in geographic applications.
+This is a simple example developed in **[Teachable Machine](https://teachablemachine.withgoogle.com/)** that shows the quick way to create a deep learning model [Deep learning mapping](https://towardsdatascience.com/deep-learning-for-visual-searches-and-mapping-89b85061ef9e) or automatic in geographic applications.
 ** Teachable Machine ** is a web-based tool that makes it possible to create machine learning models quickly.
 ## How does it work:
 
