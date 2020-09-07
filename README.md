@@ -61,5 +61,5 @@
 </script>
 
 [script 1](https://teachablemachine.withgoogle.com/models/ZyErNfPfR/)
-[script 2](https://teachablemachine.withgoogle.com/train/image)
+[script 2](https://teachablemachine.withgoogle.com/models/dhroGiDRg/)
 
