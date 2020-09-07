@@ -4,17 +4,20 @@ Este es un ejemplo sencillo desarrollado en **[Teachable Machine](https://teacha
 **[Teachable Machine](https://teachablemachine.withgoogle.com/)** es una herramienta basada en la Web que hace posible crear modelos de aprendizaje automático de manera rápida.
 **Como funciona:**
 
-<img src='./img/Captura2.PNG' alt='how' align='center' width='50%'></img>
+<img src='./img/Captura2.PNG' alt='how' align='center' width='70%'></img>
 <br>
 
 El modelo funciona a partir de una serie de imágenes creadas y precargadas sobre capas de [OPS](https://blog.openstreetmap.org/category/operations/) openstreetmap, que le enseña a un modelo de IA a clasificar imágenes en dos clases: 
 * 1. Rios
 * 2. Vias
 Usando archivos o tu webcam, como datos de entrada.
-<img src='./img/Captura.PNG' alt='class' align='center' width='50%'></img>
+
+<img src='./img/Captura.PNG' alt='class' align='center' width='70%'></img>
 <br>
-Este es el enlace de ejemplo:
-[script OPS](https://teachablemachine.withgoogle.com/models/dhroGiDRg/)
+
+**Este es el enlace de ejemplo:**
+
+**[script OPS](https://teachablemachine.withgoogle.com/models/dhroGiDRg/)**
     
 <img src='./img/777-min.gif' alt='Logo Head' align='center' width='30%'></img>
 <br>
