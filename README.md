@@ -3,6 +3,7 @@
 Este es un ejemplo sencillo que muestra la forma rápida de crear modelos de aprendizaje profundo o automático en aplicaciones geográficas.
 **[Teachable Machine](https://teachablemachine.withgoogle.com/)** es una herramienta basada en la Web que hace posible crear modelos de aprendizaje automático de manera rápida.
 **Como funciona:**
+
 <img src='./img/Captura2.png' alt='Logo Head' align='center' width='99%'></img>
 <br>
 
@@ -12,6 +13,12 @@ El modelo funciona a partir de una serie de imágenes creadas y precargadas sobr
 Usando archivos o tu webcam, como datos de entrada.
 <img src='./img/Captura.png' alt='Logo Head' align='center' width='99%'></img>
 <br>
+Este es el enlace de ejemplo:
+[script OPS](https://teachablemachine.withgoogle.com/models/dhroGiDRg/)
+    
+<img src='./img/777-min.gif' alt='Logo Head' align='center' width='50%'></img>
+<br>
+
 El modelo OPS presentado fue desarrollado bajo TensorFlow.js que funciona en cualquier sitio con javascript. Por tanto, es perfectamente compatible con herramientas como Glitch, P5.js, Node.js y muchas otras:
 ----------------------------------------------------
 <div>Teachable Machine Image Model</div>
@@ -24,7 +31,3 @@ El modelo OPS presentado fue desarrollado bajo TensorFlow.js que funciona en cua
     // More API functions here:
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 --------------------------------------------------------------------------------------------------
-Este es el enlace de ejemplo:
-[script OPS](https://teachablemachine.withgoogle.com/models/dhroGiDRg/)
-<img src='./img/777-min.gif' alt='Logo Head' align='center' width='99%'></img>
-<br>
